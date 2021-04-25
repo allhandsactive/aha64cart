@@ -1,0 +1,8 @@
+Query,Qty,Manufacturer,MPN,Octopart URL,Part Description,Description,Schematic Reference,Total Qty (@ Batch Size: 10),SKU,Packaging,Unit Price (@ Batch Size: 10),Notes
+CF14JT10K0,3,Stackpole Electronics,CF14JT10K0,https://octopart.com/cf14jt10k0-stackpole+electronics-19205381,Res Carbon Film 10K Ohm 5% 0.25W(1/4W) -500ppm/ to 0ppm/ Conformal Coated AXL T/R,,"R1, R2, R3",30,CF14JT10K0CT-ND,Cut Tape,0.0264,
+C315C104M5U5TA7301,1,KEMET,C315C104M5U5TA7301,https://octopart.com/c315c104m5u5ta7301-kemet-20253274,Cap Ceramic 0.1uF 50V Z5U 20% Radial 2.54mm 85 C T/R,,C1,10,399-14010-1-ND,Cut Tape,0.157,
+1-2199299-2,1,TE Connectivity,1-2199299-2,https://octopart.com/1-2199299-2-te+connectivity-34997809,"28 Position Dual Wipe Ladder Style DIP IC Socket 0.6"" Wide 0.1"" Pitch",Intended to work with 27SF512 chip. Paid $1.16/chip via ebay.,U1,10,A120354-ND,Tube,0.718,
+68000-402,2,Amphenol ICC / FCI,68000-402,https://octopart.com/68000-402-amphenol+icc+%2F+fci-46503223,Conn Unshrouded Header HDR 2 POS 2.54mm Solder ST Top Entry Thru-Hole BergStik® Bulk,,"A14,A15",20,609-68000-402-ND,Bulk,0.119,
+QPC02SXGN-RC,3,Sullins,QPC02SXGN-RC,https://octopart.com/qpc02sxgn-rc-sullins-19878795,2 Position 2.54 mm Centerline Single Circuit Open Top Jumper,,"J1, J2, J3",30,S9337-ND,Bag,0.044,
+ 1N4148FS-ND,2,ON Semiconductor,1N4148,https://octopart.com/1n4148-on+semiconductor-6807167,1N4148 Series 500 mW 100 V Max Reverse Voltage 200 mA Small Signal Diode -DO-35,,"D1, D2",20,1N4148FS-ND,Bulk,0.068,
+67997-404HLF,1,Amphenol ICC / FCI,67997-404HLF,https://octopart.com/67997-404hlf-amphenol+icc+%2F+fci-90333671,Conn Unshrouded Header HDR 4 POS 2.54mm Solder ST Top Entry Thru-Hole BergStik® Bulk,,!GAME/!EXROM,10,609-3242-ND,Bag,0.208,
