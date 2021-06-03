@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name aha-logo)(type KiCad)(uri ${KIPRJMOD}/logo)(options "")(descr ""))
+  (lib (name SimpleCart64_AHA)(type KiCad)(uri ${KIPRJMOD}/SimpleCart64_AHA.pretty)(options "")(descr ""))
 )
